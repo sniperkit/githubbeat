@@ -15,7 +15,7 @@ import (
 
 	"github.com/google/go-github/github"
 
-	"github.com/jlevesy/githubbeat/config"
+	"github.com/sniperkit/githubbeat/config"
 )
 
 // Githubbeat collects github repositories statistics
